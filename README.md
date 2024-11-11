@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amaljerry03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bf3Mt7ttya8RY8mhi9LxjjxCTjSImDhD/view?usp=sharing](https://drive.google.com/file/d/1Bf3Mt7ttya8RY8mhi9LxjjxCTjSImDhD/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1Bf3Mt7ttya8RY8mhi9LxjjxCTjSImDhD/view?usp=sharing)
 
 - ⚡ Fun fact **I’ve developed an uncanny ability to predict how my favorite algorithms will behave in new scenarios—almost like a Machine Learning 'sixth sense.' It sometimes feels like the code is speaking directly to me, guiding me on how to tweak and refine my models.**
 
