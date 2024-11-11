@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal Jerry</h1>
-<h3 align="center">I love Brainstroming New Project ideas</h3>
+<h3 align="center">I love Brainstorming New Project ideas</h3>
 
 - 🔭 I’m currently working on [Spatial Audio Generator](https://github.com/strangeleo02/spatial-audio-compiler)
 
