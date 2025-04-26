@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **amaljerry03@gmail.com**
+- 📫 How to reach me **amaljerry02@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bf3Mt7ttya8RY8mhi9LxjjxCTjSImDhD/view?usp=sharing)
 
