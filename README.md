@@ -2,27 +2,30 @@
 
 # 👋 Hey there, I'm Amal Jerry
 
-### 💡 Machine Learning Enthusiast | Creative Problem Solver | Audio Tech Explorer
+### 🧠 Part-Time ML Sorcerer | Full-Time Audio Wizard | Professional Code Whisperer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+AI-Powered+Solutions;Exploring+Spatial+Audio+Tech;Always+Learning+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+AI-Powered+Solutions;Whispering+to+the+Rust+Compiler;Making+Audio+Go+3D;Refusing+to+Center+Divs+Manually" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Up To (When Not Arguing With Compilers)
 
-🔭 **Building:** [Spatial Audio Generator](https://github.com/strangeleo02/spatial-audio-compiler) — Crafting immersive 3D soundscapes  
-🌱 **Learning:** Three.js — Bringing ideas to life in 3D  
-🤝 **Seeking Help:** [Demucs 2.0](https://github.com/strangeleo02/demucs-2.0) — Advanced audio source separation
+🔭 **Building:** [Spatial Audio Generator](https://github.com/strangeleo02/spatial-audio-compiler) — Crafting 3D soundscapes so immersive you'll look behind you.  
+🌱 **Learning:** **Rust** (because I enjoy pain and memory safety) & **Three.js** (making things spin in 3D).  
+⚛️ **Migrating:** Moving my life over to **Next.js** because regular React felt too mainstream.  
+🤝 **Seeking Help:** [Demucs 2.0](https://github.com/strangeleo02/demucs-2.0) — Trying to isolate audio tracks without accidentally summoning a demon via frequency distortion.
 
 ---
 
 ## 💬 About Me
 
-I have an uncanny ability to predict algorithm behavior in new scenarios—it's like having a Machine Learning "sixth sense." Sometimes it feels like the code speaks directly to me, guiding how to refine and optimize models. I love brainstorming fresh project ideas and turning abstract concepts into working solutions.
+> "I don't just debug code. I hold a seance and ask the stack trace what hurts."
 
-**Let's talk about:** Machine Learning, Audio Processing, Computer Vision, or your next big idea!
+I have an uncanny, borderline creepy ability to predict algorithm behavior in new scenarios—it's less of a skill and more of a Machine Learning "sixth sense." The weights and biases literally speak to me. When I'm not daydreaming in three dimensions or convincing the Rust borrow checker that I am, in fact, trustworthy, I love turning wild, abstract ideas into production-ready reality.
+
+**Let's talk about:** Machine Learning, Audio Processing, why Next.js is carrying the web, or how Rust changed your life (I know, you're a part of the cult now too).
 
 ---
 
@@ -34,26 +37,26 @@ I have an uncanny ability to predict algorithm behavior in new scenarios—it's 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Cloud & DevOps
+
+### Cloud, DevOps & Extras
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -85,7 +88,7 @@ I have an uncanny ability to predict algorithm behavior in new scenarios—it's 
 
 <div align="center">
 
-### 💭 "The code speaks to those who listen"
+### 💭 "The code speaks to those who listen... but Rust just screams."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=strangeleo02&color=3B82F6&style=for-the-badge)
 
