@@ -58,7 +58,7 @@ I have an uncanny, borderline creepy ability to predict algorithm behavior in ne
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&theme=dark)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4A11?style=for-the-badge&logo=qdrant&logoColor=white)
@@ -89,13 +89,17 @@ I have an uncanny, borderline creepy ability to predict algorithm behavior in ne
 
 </div>
 
+---
+
 ## 🐍 My Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
@@ -104,7 +108,5 @@ I have an uncanny, borderline creepy ability to predict algorithm behavior in ne
 ### 💭 "The code speaks to those who listen... but Rust just screams."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=strangeleo02&color=3B82F6&style=for-the-badge)
-
----
 
 </div>
