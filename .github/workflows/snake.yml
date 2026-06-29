@@ -2,13 +2,15 @@ name: Generate Snake Game
 
 on:
   schedule:
-    # Runs at 00:00 and 12:00 UTC every day (much easier on GitHub's servers)
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  # Also runs automatically on push to the main branch to see changes instantly
   push:
     branches:
       - main
+
+# 🚨 CRITICAL FIX: Explicitly grant write permissions so the bot can push to the 'output' branch
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -17,23 +19,20 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # 1. Checks out your repository so the workflow can access it
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. Generates the snake files using the official, optimized 'Platane/snk'
       - name: Generate Snake Files
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Hex colors with '#' work perfectly inside this multiline block ('|')
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#3B82F6&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#3B82F6
         env:
-          # A modern requirement to ensure the action can fetch your contribution grid graph
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Deploys the generated SVGs to the 'output' branch
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
