@@ -89,6 +89,14 @@ I have an uncanny, borderline creepy ability to predict algorithm behavior in ne
 
 </div>
 
+## 🐍 My Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake.svg" alt="Github SVG Snake" />
+</div>
+
+---
+
 ---
 
 <div align="center">
