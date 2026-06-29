@@ -13,6 +13,7 @@
 ## 🚀 What I'm Up To (When Not Arguing With Compilers)
 
 🔭 **Building:** [Spatial Audio Generator](https://github.com/strangeleo02/spatial-audio-compiler) — Crafting 3D soundscapes so immersive you'll look behind you.  
+📱 **Developing:** A cross-platform mobile audio library using **Flutter** that renders high-fidelity music directly within a simulated 3D spatial environment.  
 🌱 **Learning:** **Rust** (because I enjoy pain and memory safety) & **Three.js** (making things spin in 3D).  
 ⚛️ **Migrating:** Moving my life over to **Next.js** because regular React felt too mainstream.  
 🤝 **Seeking Help:** [Demucs 2.0](https://github.com/strangeleo02/demucs-2.0) — Trying to isolate audio tracks without accidentally summoning a demon via frequency distortion.
@@ -25,7 +26,7 @@
 
 I have an uncanny, borderline creepy ability to predict algorithm behavior in new scenarios—it's less of a skill and more of a Machine Learning "sixth sense." The weights and biases literally speak to me. When I'm not daydreaming in three dimensions or convincing the Rust borrow checker that I am, in fact, trustworthy, I love turning wild, abstract ideas into production-ready reality.
 
-**Let's talk about:** Machine Learning, Audio Processing, why Next.js is carrying the web, or how Rust changed your life (I know, you're a part of the cult now too).
+**Let's talk about:** Machine Learning, Audio Processing, Flutter mobile architecture, why Next.js is carrying the web, or how Rust changed your life (I know, you're a part of the cult now too).
 
 ---
 
@@ -34,6 +35,7 @@ I have an uncanny, borderline creepy ability to predict algorithm behavior in ne
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -41,11 +43,11 @@ I have an uncanny, borderline creepy ability to predict algorithm behavior in ne
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Cloud, DevOps & Extras
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -57,6 +59,9 @@ I have an uncanny, borderline creepy ability to predict algorithm behavior in ne
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4A11?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ---
 
