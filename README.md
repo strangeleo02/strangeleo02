@@ -12,7 +12,7 @@
 
 ## 🚀 What I'm Up To (When Not Arguing With Compilers)
 
-🔭 **Building:** [Spatial Audio Generator](https://github.com/strangeleo02/spatial-audio-compiler) — Crafting 3D soundscapes so immersive you'll look behind you.  
+🔭 **Building:** [Acoustik](https://github.com/strangeleo02/Acoustik) — Crafting 3D soundscapes so immersive you'll look behind you.  
 📱 **Developing:** A cross-platform mobile audio library using **Flutter** that renders high-fidelity music directly within a simulated 3D spatial environment.  
 🌱 **Learning:** **Rust** (because I enjoy pain and memory safety) & **Three.js** (making things spin in 3D).  
 ⚛️ **Migrating:** Moving my life over to **Next.js** because regular React felt too mainstream.  
