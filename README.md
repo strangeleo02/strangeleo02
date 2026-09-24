@@ -1,112 +1,88 @@
 <div align="center">
 
-# 👋 Hey there, I'm Amal Jerry
+<img src="assets/banner.svg" alt="Amal Jerry: AI/ML Engineering, Production Backend Systems, Applied DSP" width="100%"/>
 
-### 🧠 Part-Time ML Sorcerer | Full-Time Audio Wizard | Professional Code Whisperer
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+AI-Powered+Solutions;Whispering+to+the+Rust+Compiler;Making+Audio+Go+3D;Refusing+to+Center+Divs+Manually" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/amal-jerry-b987bb21b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn"/></a>
+<a href="mailto:amaljerry02@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1Bf3Mt7ttya8RY8mhi9LxjjxCTjSImDhD/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=8B5CF6" alt="Resume"/></a>
+<a href="https://www.instagram.com/boredleo_02/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram"/></a>
+<img src="https://komarev.com/ghpvc/?username=strangeleo02&label=Profile+views&color=8B5CF6&labelColor=0D1117&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
+
+AI & Backend Engineer specializing in **production-grade microservices**, **foundation models / LLM workflows**, and **high-performance DSP pipelines**.<br/>
+Focused on building resilient software that bridges complex research with low-latency production execution.
 
 </div>
 
----
+<br/>
 
-## 🚀 What I'm Up To (When Not Arguing With Compilers)
+<!-- ═══════════════ FOCUS ═══════════════ -->
+<img src="assets/h-focus.svg" alt="Focus" width="100%"/>
 
-🔭 **Building:** [Acoustik](https://github.com/strangeleo02/Acoustik) — Crafting 3D soundscapes so immersive you'll look behind you.  
-📱 **Developing:** A cross-platform mobile audio library using **Flutter** that renders high-fidelity music directly within a simulated 3D spatial environment.  
-🌱 **Learning:** **Rust** (because I enjoy pain and memory safety) & **Three.js** (making things spin in 3D).  
-⚛️ **Migrating:** Moving my life over to **Next.js** because regular React felt too mainstream.  
-🤝 **Seeking Help:** [Demucs 2.0](https://github.com/strangeleo02/demucs-2.0) — Trying to isolate audio tracks without accidentally summoning a demon via frequency distortion.
+<div align="center">
+<img src="assets/focus-ml.svg" alt="Machine Learning &amp; AI" width="32%"/>
+<img src="assets/focus-backend.svg" alt="Backend Systems &amp; APIs" width="32%"/>
+<img src="assets/focus-audio.svg" alt="Spatial Audio &amp; DSP" width="32%"/>
+</div>
 
----
+<br/>
 
-## 💬 About Me
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+<img src="assets/h-projects.svg" alt="Projects" width="100%"/>
 
-> "I don't just debug code. I hold a seance and ask the stack trace what hurts."
+<div align="center">
+<img src="assets/project-race-strategist.svg" alt="AI Race Strategist: telemetry and simulation" width="49%"/>
+<img src="assets/project-enterprise-api.svg" alt="Enterprise Microservices Platform" width="49%"/>
 
-I have an uncanny, borderline creepy ability to predict algorithm behavior in new scenarios—it's less of a skill and more of a Machine Learning "sixth sense." The weights and biases literally speak to me. When I'm not daydreaming in three dimensions or convincing the Rust borrow checker that I am, in fact, trustworthy, I love turning wild, abstract ideas into production-ready reality.
+<br/>
 
-**Let's talk about:** Machine Learning, Audio Processing, Flutter mobile architecture, why Next.js is carrying the web, or how Rust changed your life (I know, you're a part of the cult now too).
+<img src="assets/project-biometrics.svg" alt="Biometric Engine: high-concurrency attendance and RBAC" width="49%"/>
+<a href="https://github.com/strangeleo02/Acoustik"><img src="assets/project-acoustik.svg" alt="Acoustik: 3D spatial audio soundscapes" width="49%"/></a>
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Cloud, DevOps & Extras
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&theme=dark)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4A11?style=for-the-badge&logo=qdrant&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<!-- ═══════════════ STACK ═══════════════ -->
+<img src="assets/h-stack.svg" alt="Tech Stack" width="100%"/>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=strangeleo02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<sub><b>CORE &amp; PRODUCTION DRIVERS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,gcp,linux,ts,js,nextjs,react,nodejs&theme=dark" alt="Core Production Stack"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=strangeleo02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangeleo02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<br/><br/>
+
+<sub><b>SPECIALIZED &amp; SYSTEMS EXPLORATION</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=rust,cpp,dart,flutter,threejs,pytorch,bash&theme=dark" alt="Specialized and Systems Stack"/>
 
 </div>
 
----
+<br/>
 
-## 🤝 Let's Connect
+<!-- ═══════════════ ACTIVITY ═══════════════ -->
+<img src="assets/h-activity.svg" alt="Activity" width="100%"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-jerry-b987bb21b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boredleo_02/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaljerry02@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Bf3Mt7ttya8RY8mhi9LxjjxCTjSImDhD/view?usp=sharing)
+<a href="https://github.com/strangeleo02">
+  <img src="https://streak-stats.demolab.com/?user=strangeleo02&theme=dark&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=9AA4B2&dates=6B7280&stroke=30363D&hide_border=true&border_radius=16" alt="GitHub streak" />
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
----
+<br/>
 
-## 🐍 My Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/strangeleo02/strangeleo02/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-### 💭 "The code speaks to those who listen... but Rust just screams."
-
-![Profile Views](https://komarev.com/ghpvc/?username=strangeleo02&color=3B82F6&style=for-the-badge)
-
-</div>
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
