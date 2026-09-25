@@ -1,42 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 190" width="400" height="190" role="img" aria-label="Backend Systems" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0MmYzM2ZiOC1hNjM3LTQ2M2YtOTIxYy1iY2MzMzY5NTI2NGMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEJp5mkj/cuwoNWD85e4gskAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmZTZiMjAxMC0wOTRiLTQxYTgtYWQ3Zi01ODkwZDE5YTJiMzdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoO8O76wENwT1OPwQqTjnnggAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggWyJZ8TZZ26l8VK5JJgUd1s38b89Cys4Q5rdg9Y8KhNCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAjjEuvEkH/2uTRfaYNpbf8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA9DANFDUsslOc7WscS8dU8sh6twxzln98ZlSOT73i0K2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi+Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQyZjMzZmI4LWE2MzctNDYzZi05MjFjLWJjYzMzNjk1MjY0Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY0NGViZTQ2LTRmMGMtNDU3OS1hYzc4LWFlZWQ5NTk4ZWRkY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBbIlnxNlnbqXxUrkkmBR3Wzfxvz0LKzhDmt2D1jwqE0KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggf4/8WvGf93NUv5SeCo8RREN3ls19O39dfE7dynDrEX+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgggyEcuIWL810vazVwmxwIZnKYoKWqsQnBrZWWkkIirzB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKNTeOtPi1MuMnCv75MQDR5Y7Y0vZnIWm5L9Zm9sP4299t09gMasgQ/+VWDFosLgdqfGpF85hnOpqIgehaaUm4c=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 190" width="400" height="190" role="img" aria-label="Backend Systems &amp; APIs">
 <defs>
-<linearGradient id="sg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.65"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0.3"/></linearGradient>
-<radialGradient id="glow" cx="0.9" cy="0" r="0.8"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.22"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
-<linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-<linearGradient id="bar" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="0.55" stop-color="#6366F1"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-<clipPath id="clip"><rect width="400" height="190" rx="16"/></clipPath>
+  <linearGradient id="card-border" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.6"/>
+    <stop offset="50%" stop-color="#6366F1" stop-opacity="0.2"/>
+    <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.4"/>
+  </linearGradient>
 
+  <radialGradient id="glow-be" cx="0.85" cy="0.15" r="0.7">
+    <stop offset="0%" stop-color="#6366F1" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="pill-acc" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#6366F1"/>
+    <stop offset="100%" stop-color="#38BDF8"/>
+  </linearGradient>
+
+  <clipPath id="card-clip">
+    <rect width="400" height="190" rx="16"/>
+  </clipPath>
 </defs>
+
 <style>
-.b{transform-box:fill-box;transform-origin:center;animation-name:p;animation-timing-function:ease-in-out;animation-iteration-count:infinite}
-@keyframes p{0%,100%{transform:scaleY(.38)}50%{transform:scaleY(1)}}
-.dot{animation:d 2.4s ease-in-out infinite}
-@keyframes d{0%,100%{opacity:1}50%{opacity:.25}}
+  .server-light { animation: sBlink 2.2s ease-in-out infinite; }
+  @keyframes sBlink { 0%, 100% { fill: #10B981; } 50% { fill: #38BDF8; } }
 </style>
-<g clip-path="url(#clip)">
-<rect width="400" height="190" fill="#0D1117"/>
-<rect width="400" height="190" fill="url(#glow)"/>
-<rect class="b" style="animation-duration:2.09s;animation-delay:-0.45s" x="268.0" y="22.0" width="3.6" height="36.0" rx="1.8" fill="url(#bar)" opacity="0.14"/>
-<rect class="b" style="animation-duration:2.58s;animation-delay:-0.22s" x="275.6" y="22.0" width="3.6" height="36.0" rx="1.8" fill="url(#bar)" opacity="0.28"/>
-<rect class="b" style="animation-duration:2.4s;animation-delay:-1.1s" x="283.2" y="22.0" width="3.6" height="36.0" rx="1.8" fill="url(#bar)" opacity="0.41"/>
-<rect class="b" style="animation-duration:1.69s;animation-delay:-1.52s" x="290.8" y="22.0" width="3.6" height="36.0" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:1.66s;animation-delay:-1.3s" x="298.4" y="22.0" width="3.6" height="36.0" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:1.7s;animation-delay:-0.27s" x="306.0" y="24.8" width="3.6" height="30.4" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:2.24s;animation-delay:-2.48s" x="313.6" y="22.6" width="3.6" height="34.8" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:1.79s;animation-delay:-0.67s" x="321.2" y="29.2" width="3.6" height="21.5" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:2.54s;animation-delay:-2.84s" x="328.8" y="26.3" width="3.6" height="27.3" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:2.47s;animation-delay:-1.19s" x="336.4" y="31.3" width="3.6" height="17.4" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:3.06s;animation-delay:-0.14s" x="344.0" y="29.5" width="3.6" height="21.1" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:2.89s;animation-delay:-0.87s" x="351.6" y="32.0" width="3.6" height="15.9" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:1.82s;animation-delay:-0.35s" x="359.2" y="31.1" width="3.6" height="17.7" rx="1.8" fill="url(#bar)" opacity="0.55"/>
-<rect class="b" style="animation-duration:2.06s;animation-delay:-2.45s" x="366.8" y="31.1" width="3.6" height="17.7" rx="1.8" fill="url(#bar)" opacity="0.41"/>
-<rect class="b" style="animation-duration:1.87s;animation-delay:-1.74s" x="374.4" y="31.5" width="3.6" height="17.0" rx="1.8" fill="url(#bar)" opacity="0.28"/>
-<rect class="b" style="animation-duration:2.56s;animation-delay:-1.12s" x="382.0" y="29.3" width="3.6" height="21.4" rx="1.8" fill="url(#bar)" opacity="0.14"/>
-<text x="30" y="44" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="2" fill="#A78BFA">02</text>
-<text x="30" y="98" font-family="Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Backend Systems &amp; APIs</text>
-<text x="30" y="128" font-family="Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#9AA4B2">High-throughput async FastAPI services,</text>
-<text x="30" y="149" font-family="Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#9AA4B2">PostgreSQL, Redis, and multi-tenant RBAC.</text>
-<rect x="30" y="168" width="44" height="3" rx="1.5" fill="url(#acc)"/>
+
+<g clip-path="url(#card-clip)">
+  <!-- Background -->
+  <rect width="400" height="190" fill="#0D1117"/>
+  <rect width="400" height="190" fill="url(#glow-be)"/>
+
+  <!-- Top Left Number Pill -->
+  <rect x="24" y="22" width="38" height="24" rx="6" fill="#151733" stroke="#6366F1" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="43" y="38" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="700" fill="#818CF8">02</text>
+
+  <!-- Top Right Server / Database Stack Icon Graphic (Replaced soundwave) -->
+  <g transform="translate(325, 20)">
+    <!-- Microservice Stack -->
+    <rect x="6" y="6" width="36" height="10" rx="3" fill="#1E1B4B" stroke="#6366F1" stroke-width="1.2"/>
+    <circle cx="12" cy="11" r="1.5" class="server-light"/>
+    <line x1="18" y1="11" x2="36" y2="11" stroke="#6366F1" stroke-width="1" stroke-opacity="0.5"/>
+
+    <rect x="6" y="20" width="36" height="10" rx="3" fill="#1E1B4B" stroke="#6366F1" stroke-width="1.2"/>
+    <circle cx="12" cy="25" r="1.5" fill="#38BDF8"/>
+    <line x1="18" y1="25" x2="36" y2="25" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.5"/>
+
+    <rect x="6" y="34" width="36" height="10" rx="3" fill="#1E1B4B" stroke="#6366F1" stroke-width="1.2"/>
+    <circle cx="12" cy="39" r="1.5" fill="#A78BFA"/>
+    <line x1="18" y1="39" x2="36" y2="39" stroke="#A78BFA" stroke-width="1" stroke-opacity="0.5"/>
+
+    <!-- Data flow path -->
+    <path d="M 24 0 L 24 6 M 24 16 L 24 20 M 24 30 L 24 34" stroke="#38BDF8" stroke-width="1.2" stroke-dasharray="2 2" opacity="0.6"/>
+  </g>
+
+  <!-- Content -->
+  <text x="24" y="88" font-family="Inter,-apple-system,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">Backend Systems &amp; APIs</text>
+  <text x="24" y="118" font-family="Inter,-apple-system,sans-serif" font-size="13.5" fill="#94A3B8">High-throughput async FastAPI services,</text>
+  <text x="24" y="139" font-family="Inter,-apple-system,sans-serif" font-size="13.5" fill="#94A3B8">PostgreSQL, Redis, &amp; multi-tenant RBAC.</text>
+
+  <!-- Bottom Accent Bar -->
+  <rect x="24" y="162" width="48" height="3" rx="1.5" fill="url(#pill-acc)"/>
 </g>
-<rect x="0.75" y="0.75" width="398.5" height="188.5" rx="16" fill="none" stroke="url(#sg)" stroke-width="1.5"/>
+
+<!-- Card Border -->
+<rect x="0.75" y="0.75" width="398.5" height="188.5" rx="16" fill="none" stroke="url(#card-border)" stroke-width="1.5"/>
 </svg>

@@ -1,51 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 190" width="560" height="190" role="img" aria-label="Acoustik" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozNjUyNDMxYS04NjFiLTRhZmItYTEwYy1hNmI0N2FhZDhhNDQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDWZEvrHDuxzdP8+4iG1LkMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkMTRmY2IyZS02NDkyLTRiMGItYTQxZi1lOTZhYzE0ZWRmMjlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoii1HquFgOq79pb38ebDuFQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg+IyqKuiy9qSpbMGT1U1vQ4TzYVfVoQe7S/KoWRPo82WkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEx+zvOUYrx0cQ2HziDZSDsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA59Xry/ELvVxLREkUbV3i02T2RKfTsxDQXPnlz1o9Qb2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi3Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjM2NTI0MzFhLTg2MWItNGFmYi1hMTBjLWE2YjQ3YWFkOGE0NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEwMDJhMjU1LTVmMjktNGZlMS04MWZjLWMwNmI1MjdhN2EwZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD4jKoq6LL2pKlswZPVTW9DhPNhV9WhB7tL8qhZE+jzZaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggD6g+2nsa4lx7U9BwTzj7g7dnBHJSWthooqT2e0nvmmiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggS8FKdYbxbl9sCmNDcmmm5/ulR2mUsJM8eelsEfdRrCt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMVgXLlKJsAQHcJas/6vdA03JsiQx0Rj35TkL/1rzoekPBeJagExC+8hUp2QUZXXJ5ZHzlTErkOH9j7SC9NkqQA=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 190" width="560" height="190" role="img" aria-label="Acoustik: Spatial Audio Engine">
 <defs>
-<linearGradient id="sg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.65"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0.3"/></linearGradient>
-<radialGradient id="glow" cx="0.9" cy="0" r="0.8"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.22"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
-<linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-<linearGradient id="bar" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="560" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="0.55" stop-color="#6366F1"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-<clipPath id="clip"><rect width="560" height="190" rx="16"/></clipPath>
+  <linearGradient id="card-border" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.6"/>
+    <stop offset="50%" stop-color="#6366F1" stop-opacity="0.2"/>
+    <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.4"/>
+  </linearGradient>
 
+  <radialGradient id="card-glow" cx="0.9" cy="0.1" r="0.75">
+    <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="tag-bg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#1E1B4B" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#172554" stop-opacity="0.8"/>
+  </linearGradient>
+
+  <clipPath id="card-clip">
+    <rect width="560" height="190" rx="16"/>
+  </clipPath>
 </defs>
+
 <style>
-.b{transform-box:fill-box;transform-origin:center;animation-name:p;animation-timing-function:ease-in-out;animation-iteration-count:infinite}
-@keyframes p{0%,100%{transform:scaleY(.38)}50%{transform:scaleY(1)}}
-.dot{animation:d 2.4s ease-in-out infinite}
-@keyframes d{0%,100%{opacity:1}50%{opacity:.25}}
+  .dot { animation: dPulse 2.4s ease-in-out infinite; }
+  @keyframes dPulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.3; transform: scale(0.8); } }
 </style>
-<g clip-path="url(#clip)">
-<rect width="560" height="190" fill="#0D1117"/>
-<rect width="560" height="190" fill="url(#glow)"/>
-<rect class="b" style="animation-duration:1.96s;animation-delay:-1.63s" x="372.0" y="38.6" width="3.6" height="14.8" rx="1.8" fill="url(#bar)" opacity="0.12"/>
-<rect class="b" style="animation-duration:2.15s;animation-delay:-1.81s" x="379.6" y="33.1" width="3.6" height="25.8" rx="1.8" fill="url(#bar)" opacity="0.24"/>
-<rect class="b" style="animation-duration:2.54s;animation-delay:-0.2s" x="387.2" y="39.7" width="3.6" height="12.6" rx="1.8" fill="url(#bar)" opacity="0.36"/>
-<rect class="b" style="animation-duration:1.62s;animation-delay:-2.51s" x="394.8" y="34.0" width="3.6" height="24.0" rx="1.8" fill="url(#bar)" opacity="0.48"/>
-<rect class="b" style="animation-duration:1.99s;animation-delay:-0.7s" x="402.4" y="38.4" width="3.6" height="15.3" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:3.09s;animation-delay:-1.41s" x="410.0" y="34.9" width="3.6" height="22.3" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.85s;animation-delay:-1.43s" x="417.6" y="36.8" width="3.6" height="18.4" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.56s;animation-delay:-0.45s" x="425.2" y="35.8" width="3.6" height="20.5" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.55s;animation-delay:-2.6s" x="432.8" y="35.1" width="3.6" height="21.8" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.38s;animation-delay:-2.22s" x="440.4" y="36.5" width="3.6" height="19.0" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.61s;animation-delay:-0.19s" x="448.0" y="33.2" width="3.6" height="25.6" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.74s;animation-delay:-1.77s" x="455.6" y="36.9" width="3.6" height="18.2" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.05s;animation-delay:-0.09s" x="463.2" y="31.2" width="3.6" height="29.6" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.9s;animation-delay:-1.42s" x="470.8" y="37.1" width="3.6" height="17.9" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.68s;animation-delay:-2.64s" x="478.4" y="29.6" width="3.6" height="32.9" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.67s;animation-delay:-2.76s" x="486.0" y="34.3" width="3.6" height="23.3" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.19s;animation-delay:-2.4s" x="493.6" y="29.0" width="3.6" height="34.0" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.27s;animation-delay:-2.81s" x="501.2" y="32.3" width="3.6" height="27.5" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:2.92s;animation-delay:-0.29s" x="508.8" y="30.1" width="3.6" height="31.7" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:1.8s;animation-delay:-0.65s" x="516.4" y="31.8" width="3.6" height="28.4" rx="1.8" fill="url(#bar)" opacity="0.6"/>
-<rect class="b" style="animation-duration:3.05s;animation-delay:-1.31s" x="524.0" y="33.0" width="3.6" height="26.0" rx="1.8" fill="url(#bar)" opacity="0.48"/>
-<rect class="b" style="animation-duration:2.54s;animation-delay:-0.9s" x="531.6" y="32.7" width="3.6" height="26.5" rx="1.8" fill="url(#bar)" opacity="0.36"/>
-<rect class="b" style="animation-duration:2.36s;animation-delay:-1.16s" x="539.2" y="36.7" width="3.6" height="18.5" rx="1.8" fill="url(#bar)" opacity="0.24"/>
-<rect class="b" style="animation-duration:2.13s;animation-delay:-1.76s" x="546.8" y="33.9" width="3.6" height="24.2" rx="1.8" fill="url(#bar)" opacity="0.12"/>
-<circle class="dot" cx="36" cy="40" r="4" fill="#8B5CF6"/>
-<text x="50" y="44.5" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="3" fill="#A78BFA">BUILDING</text>
-<text x="34" y="98" font-family="Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="33" font-weight="700" fill="#FFFFFF">Acoustik</text>
-<text x="34" y="130" font-family="Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" fill="#9AA4B2">3D soundscapes rendered on-device through</text>
-<text x="34" y="152" font-family="Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" fill="#9AA4B2">cross-platform spatial audio pipelines.</text>
-<text x="526" y="164" text-anchor="end" font-family="Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#A78BFA">View repository  →</text>
+
+<g clip-path="url(#card-clip)">
+  <!-- Background -->
+  <rect width="560" height="190" fill="#0D1117"/>
+  <rect width="560" height="190" fill="url(#card-glow)"/>
+
+  <!-- Top Left: Category Status Badge -->
+  <circle class="dot" cx="32" cy="36" r="3.5" fill="#8B5CF6"/>
+  <circle cx="32" cy="36" r="7" fill="#8B5CF6" opacity="0.2"/>
+  <text x="46" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" font-weight="600" letter-spacing="2.5" fill="#A78BFA">SPATIAL AUDIO · DSP</text>
+
+  <!-- Top Right: Spatial Audio Engine Pill (Replaced soundwave) -->
+  <g transform="translate(390, 24)">
+    <rect x="0" y="0" width="144" height="26" rx="13" fill="url(#tag-bg)" stroke="#8B5CF6" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="16" cy="13" r="3" fill="#A78BFA"/>
+    <text x="28" y="17" font-family="'SFMono-Regular',Consolas,monospace" font-size="10.5" font-weight="700" letter-spacing="1" fill="#DDD6FE">3D DSP ENGINE</text>
+  </g>
+
+  <!-- Project Title -->
+  <text x="30" y="92" font-family="Inter,-apple-system,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Acoustik</text>
+
+  <!-- Description -->
+  <text x="30" y="124" font-family="Inter,-apple-system,sans-serif" font-size="14" fill="#94A3B8">3D binaural soundscapes rendered on-device through</text>
+  <text x="30" y="145" font-family="Inter,-apple-system,sans-serif" font-size="14" fill="#94A3B8">cross-platform low-latency spatial audio DSP pipelines.</text>
+
+  <!-- Bottom Link Prompt -->
+  <text x="530" y="165" text-anchor="end" font-family="Inter,-apple-system,sans-serif" font-size="13" font-weight="600" fill="#A78BFA">View repository  →</text>
 </g>
-<rect x="0.75" y="0.75" width="558.5" height="188.5" rx="16" fill="none" stroke="url(#sg)" stroke-width="1.5"/>
+
+<!-- Card Border -->
+<rect x="0.75" y="0.75" width="558.5" height="188.5" rx="16" fill="none" stroke="url(#card-border)" stroke-width="1.5"/>
 </svg>
